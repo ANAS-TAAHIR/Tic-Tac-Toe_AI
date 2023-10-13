@@ -97,7 +97,7 @@ if __name__ == "__main__":
         
         if winner is not None:
             if winner == "draw":
-                print("It's a tie!")
+                print("It's a draw!")
             else:
                 print("Player", winner, "wins!")
             break
